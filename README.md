@@ -4,7 +4,7 @@ FIRST OFF--LEARN MORE ABOUT THE TERMINAL, HOW TO USE IT
 
 **TERMINAL USE**
 
-Day 3--learning some Terminal usabe, played with it and learned some basics
+Learning some Terminal usabe, played with it and learned some basics
 
 Used this tutorial https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-terminal.html
 
