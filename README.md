@@ -27,6 +27,8 @@ If you type cd and press the Return key—with no directory specified—you’ll
 
 **If you type cd /, you’ll go to the root level of your startup disk**
 
+ALSO NOTE VARIOUS PODCASTS
+
 If you type **cd ..** (that’s two periods), you’ll go to the directory above the one you’re currently in. So if you’re in your home folder, and type cd .., you’ll go to your Mac’s /Users folder. This is like a Back Button
 
 And if you type cd - (hyphen) you’ll go back to the directory you were in before the last time you issued the cd command.
