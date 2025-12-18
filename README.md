@@ -55,3 +55,5 @@ Once you get the hang of moving around the Mac terminal, you’re ready to start
 **`*`** This isn’t so much a command as it is an important symbol to be familiar with. It’s known as the “wildcard” symbol and is used to reference anything within certain criteria.
 
 **sudo** is used to run commands as a superuser, or as an admin. It means that you’re overriding some basic protection of your Mac and making an alteration to your computer
+
+NOTE: Deleting a file will also remove any associated commits on my commit chart! It pays to not delete!
