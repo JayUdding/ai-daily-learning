@@ -57,3 +57,7 @@ Once you get the hang of moving around the Mac terminal, you’re ready to start
 **sudo** is used to run commands as a superuser, or as an admin. It means that you’re overriding some basic protection of your Mac and making an alteration to your computer
 
 NOTE: Deleting a file will also remove any associated commits on my commit chart! It pays to not delete!
+
+Need to use Maple IA in addition to CoPilot--
+
+https://blog.trymaple.ai/plan-your-day-like-a-pro-time-management-with-personal-ai/
