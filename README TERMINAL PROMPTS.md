@@ -1,4 +1,4 @@
-Daily GitHub commits as I learn with my trusted CoPilot
+Daily GitHub commits as I learn with my trusted CoPilot and the Terminal
 
 FIRST OFF--LEARN MORE ABOUT THE TERMINAL, HOW TO USE IT
 
@@ -6,9 +6,20 @@ FIRST OFF--LEARN MORE ABOUT THE TERMINAL, HOW TO USE IT
 
 Learning some Terminal usabe, played with it and learned some basics
 
-Used this tutorial https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-terminal.html
+Used this tutorial 
 
-**COMMANDS**
+https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-terminal.html
+https://appletoolbox.com/use-the-mac-terminal-the-basics/
+
+**COMMANDS TO MEMORIZE**
+
+Blinking cursor is where the command line starts
+We see user name followed by possibly the directory we are in (ie. Desktop), followed by % sign.
+If we press return/enter then a new command line presents.
+Commands are only executed in the directory we are in at the moment.
+We can't interact with the terminal with the mouse. You can only use the arrow keys and keyboard. 
+
+
 
 **ls  list**
 
@@ -33,18 +44,22 @@ If you type **cd ..** (that’s two periods), you’ll go to the directory above
 
 And if you type cd - (hyphen) you’ll go back to the directory you were in before the last time you issued the cd command.
 
-Another Tutorial that I studied:
 
-https://appletoolbox.com/use-the-mac-terminal-the-basics/
 
 **Terminal is the built-in shell environment on Mac that allows you to directly issue UNIX commands. The Mac terminal works via commands. Unlike a traditional app (or GUI app), where you navigate by clicking buttons with the mouse, the terminal is a LUI app. This means you interact with the terminal by typing in keywords and phrases (i.e., commands) that tell the terminal what to do.**
 
 Homebrew is what’s known as a package manager. All this means is that you can install packages (i.e., apps) using Homebrew. Think of it as the App Store but for your Mac’s terminal.
 
 
-You may have already noticed, but you can’t interact with the terminal with your mouse. You can only use the arrow keys and keyboard. That means you can’t highlight text or copy/paste text in the terminal.
+
 
 **history, clear, *****, and sudo**
+
+history -- gives the history of commands made in the session
+clear --  does clear the window back to a basic command line where we were
+* --  wildcard symbol --returns all with the reference to follow it. eg. *.pdf
+sudo -- means you are using as an administrator, superuser--and you are overriding protections!
+say --will make computer talk
 
 Once you get the hang of moving around the Mac terminal, you’re ready to start learning the fundamental commands. In my opinion, that means understanding how history, clear, *, and sudo work.
 
