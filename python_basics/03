@@ -1,0 +1,9 @@
+next python command is: \n  newline
+' ' a space can be added--this is instead of a new line, so 
+
+print("the", end=' ')
+print('big', end=' ')
+print("black", end=' ')
+print('box', end=' ')
+
+This will show as "the big black box" in the output box
