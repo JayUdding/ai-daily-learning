@@ -10,6 +10,7 @@ Used this tutorial
 
 https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-terminal.html
 https://appletoolbox.com/use-the-mac-terminal-the-basics/
+https://www.macupdate.com/how-to/mac-terminal-commands-list
 
 **COMMANDS TO MEMORIZE**
 
@@ -17,9 +18,19 @@ Blinking cursor is where the command line starts
 We see user name followed by possibly the directory we are in (ie. Desktop), followed by % sign.
 If we press return/enter then a new command line presents.
 Commands are only executed in the directory we are in at the moment.
-We can't interact with the terminal with the mouse. You can only use the arrow keys and keyboard. 
+We can't interact with the terminal with the mouse (but we can use it to place the cursor). You can only use the arrow keys and keyboard. 
+The UP arrow is useful to select previous commands used in the session.
 
 
+UP ARROW--goes through previous commands
+
+clear --use this to clear the terminal
+
+man--get to a manual
+
+itconfig --checks IP address and related
+
+netstat --lists network configurations
 
 **ls  list**
 
