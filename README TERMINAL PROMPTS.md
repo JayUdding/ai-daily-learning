@@ -1,3 +1,10 @@
+This no longer belongs in this file, but we will leave it until we have 3 separate repos:
+
+1. Terminal
+2. Python
+3. AI General learning
+4. GitHub learning
+
 Daily GitHub commits as I learn with my trusted CoPilot and the Terminal
 
 FIRST OFF--LEARN MORE ABOUT THE TERMINAL, HOW TO USE IT
