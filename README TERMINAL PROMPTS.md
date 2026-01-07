@@ -2,7 +2,7 @@ This no longer belongs in this file, but we will leave it until we have 5 separa
 
 1. Terminal
 2. Python
-3. AI General learning
+3. AI General learning--using https://trymaple.ai/ and copilot
 4. GitHub learning
 5. Building an account at NOSTR 
 
