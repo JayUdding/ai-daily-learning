@@ -152,3 +152,6 @@ Git documentation: https://git-scm.com/docs
 Terminal tutorials: https://www.gnu.org/software/bash/manual/html_node/
 Coding resources: https://www.codecademy.com/, https://www.freeCodeCamp.org/
 AI and data science resources: https://www.kaggle.com/, https://www.tensorflow.org/
+
+More shortly as I am now focusing on Android Studio for a short Kotlin Project
+
