@@ -1,20 +1,10 @@
-This no longer belongs in this file, but we will leave it until we have 5 separate repos:
-
-1. Terminal
-2. Python
-3. AI General learning--using https://trymaple.ai/ and copilot
-4. GitHub learning
-5. Building an account at NOSTR 
-
-Daily GitHub commits as I learn with my trusted CoPilot and the Terminal
-
-FIRST OFF--LEARN MORE ABOUT THE TERMINAL, HOW TO USE IT
+This no longer belongs in this file and should be merged with Terminal learning:
 
 **TERMINAL USE**
 
 Learning some Terminal usabe, played with it and learned some basics
 
-Used this tutorial 
+Used these tutorials to learn some basic commands
 
 https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-terminal.html
 https://appletoolbox.com/use-the-mac-terminal-the-basics/
@@ -22,11 +12,13 @@ https://www.macupdate.com/how-to/mac-terminal-commands-list
 
 **COMMANDS TO MEMORIZE**
 
+say ... this has been a lot of fun for the whole family!
 Blinking cursor is where the command line starts
 We see user name followed by possibly the directory we are in (ie. Desktop), followed by % sign.
 If we press return/enter then a new command line presents.
 Commands are only executed in the directory we are in at the moment.
-We can't interact with the terminal with the mouse (but we can use it to place the cursor). You can only use the arrow keys and keyboard. 
+We can't interact with the terminal with the mouse (but we can use it to place the cursor). 
+We can only use the arrow keys and keyboard. 
 The UP arrow is useful to select previous commands used in the session.
 
 
@@ -57,7 +49,6 @@ If you type cd and press the Return key—with no directory specified—you’ll
 
 **If you type cd /, you’ll go to the root level of your startup disk**
 
-ALSO NOTE VARIOUS PODCASTS
 
 If you type **cd ..** (that’s two periods), you’ll go to the directory above the one you’re currently in. So if you’re in your home folder, and type cd .., you’ll go to your Mac’s /Users folder. This is like a Back Button
 
@@ -80,7 +71,6 @@ clear --  does clear the window back to a basic command line where we were
 sudo -- means you are using as an administrator, superuser--and you are overriding protections!
 say --will make computer talk
 
-Once you get the hang of moving around the Mac terminal, you’re ready to start learning the fundamental commands. In my opinion, that means understanding how history, clear, *, and sudo work.
 
 **history** is a straightforward command. It shows you a brief history of the commands you’ve recently entered into the terminal. This is helpful when you need to remember what you’ve done so far.
 
@@ -90,68 +80,11 @@ Once you get the hang of moving around the Mac terminal, you’re ready to start
 
 **sudo** is used to run commands as a superuser, or as an admin. It means that you’re overriding some basic protection of your Mac and making an alteration to your computer
 
-NOTE: Deleting a file will also remove any associated commits on my commit chart! It pays to not delete!
-
-Need to use Maple IA in addition to CoPilot--
-
-https://blog.trymaple.ai/plan-your-day-like-a-pro-time-management-with-personal-ai/
-
-Here are some of the notes provided by maple
-
-Commit Template:
-
-Create a new file named .gitmessage in your project's root directory.
-Add a template for your commit messages, e.g., feat: [brief description].
-Configure Git to use the template by running git config --global commit.template .gitmessage.
-Automating Tasks and Workflows:
-
-Learn about GitHub Actions: https://docs.github.com/en/actions
-Create a new file in your project's .github/workflows directory, e.g., deploy.yml.
-Define a workflow using YAML syntax, e.g., name: Deploy, on: push, jobs: deploy.
-Use GitHub Actions to automate tasks, such as building, testing, and deploying your project.
-Free Website or Blog:
-
-Create a new repository on GitHub: https://github.com/new
-Choose a template or start from scratch.
-Use GitHub Pages to host your website or blog: https://pages.github.com/
-Configure your repository to use GitHub Pages by going to Settings > GitHub Pages.
-Using GitHub for Your Website or Blog:
-
-Create a new branch for your website or blog, e.g., gh-pages.
-Configure your repository to use GitHub Pages by going to Settings > GitHub Pages.
-Use Markdown files to create content for your website or blog.
-Use Jekyll or other static site generators to build and deploy your website or blog.
-Git Hooks:
-
-Learn about Git hooks: https://git-scm.com/docs/githooks
-Create a new file in your project's .git/hooks directory, e.g., pre-commit.
-Write a script to perform a specific action before committing, e.g., echo "Remember to update the README".
-Scheduled Commit Tool:
-
-Use git commit --allow-empty to create an empty commit.
-Use a scheduling tool like cron (on Linux/macOS) or Task Scheduler (on Windows) to run the command at regular intervals.
-Alternatively, use a tool like github-scheduler to schedule commits.
-Terminal Benefits:
+NOTES: 
 
 Faster workflow: The terminal allows you to perform tasks quickly and efficiently.
 Version control: The terminal is essential for using Git and other version control systems.
 Coding: The terminal is where you'll spend most of your time as a coder, using tools like compilers, interpreters, and debuggers.
 AI and data science: The terminal is used extensively in AI and data science for tasks like data preprocessing, model training, and deployment.
 Vibecoding: The terminal is where you'll use tools like vibe to create and manage your projects.
-Getting Started with the Terminal:
-
-Learn basic commands: cd, ls, mkdir, rm, cp, mv.
-Practice navigating directories: Use cd and ls to move around your file system.
-Learn about Git: Use git init, git add, git commit, git push, and git pull to manage your projects.
 Install a code editor: Use a terminal-based code editor like vim or nano to write code.
-Explore terminal tools: Learn about tools like curl, wget, and ssh to perform tasks like downloading files and accessing remote servers.
-Learning Resources:
-
-GitHub: https://github.com/
-Git documentation: https://git-scm.com/docs
-Terminal tutorials: https://www.gnu.org/software/bash/manual/html_node/
-Coding resources: https://www.codecademy.com/, https://www.freeCodeCamp.org/
-AI and data science resources: https://www.kaggle.com/, https://www.tensorflow.org/
-
-More shortly as I am now focusing on Android Studio for a short Kotlin Project
-
